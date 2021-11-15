@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 张淞博的个人主页
 
-You can use the [editor on GitHub](https://github.com/Zhangsbo/zhangsbo.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Tel：+86 13613058907
+Wechat：zhangsbo503
+Email：zhangsbo@icloud.com
+       zhangsongbo@stu.hit.edu.cn
+Address：HIT Campus,Xili University Town, Shenzhen, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 教育经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+哈尔滨工业大学（深圳） 土木工程 工学学士 2016-2020
+Harbin Institute of Technology,Shenzhen 
+Bachelor of Engineering 
+Major in Civil Engineering
 
-```markdown
-Syntax highlighted code block
+香港城市大学 土木及建筑工程 理学硕士 2020-2021
+City University of Hong Kong 
+Master of Science  With Distinction
+Major in Civil and Architectural Engineering
 
-# Header 1
-## Header 2
-### Header 3
+哈尔滨工业大学（深圳） 建筑学 博士研究生 2021-至今
+Harbin Institute of Technology,Shenzhen 
+PhD Student in Architecture
 
-- Bulleted
-- List
+### 科研经历
 
-1. Numbered
-2. List
+Updating...
 
-**Bold** and _Italic_ and `Code` text
+### 荣誉奖项
 
-[Link](url) and ![Image](src)
-```
+Updating...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 实习/技能
 
-### Jekyll Themes
+Updating...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zhangsbo/zhangsbo.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
